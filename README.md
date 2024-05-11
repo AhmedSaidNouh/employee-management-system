@@ -1,3 +1,3 @@
 # employee-management-system
 CRUD App
-build usin html,bootstrap, php 
+build using html,bootstrap, php 
